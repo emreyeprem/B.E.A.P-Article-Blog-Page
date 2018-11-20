@@ -20,6 +20,9 @@ http://beap.surge.sh/
 ## Introduction video of the project: 
 https://youtu.be/_TSqOdyXeng
 
+## This site was built by 
+Beyza Kilickol Akurek, Pamela Hutchinson, Emre Akurek, Arlisha Hayles 
+
 ## Database: 
 This project is built using "Firebase".
 
