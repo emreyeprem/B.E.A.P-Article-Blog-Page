@@ -9,7 +9,7 @@
 ## Live link: 
 http://beap.surge.sh/
 
-## Introduction Video of the project: 
+## Introduction video of the project: 
 https://youtu.be/_TSqOdyXeng
 
 ## Database: 
