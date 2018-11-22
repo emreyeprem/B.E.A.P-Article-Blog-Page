@@ -14,7 +14,7 @@ https://youtu.be/_TSqOdyXeng
 
 ## This site was built by
 [Beyza Kilickol Akurek](https://github.com/beyzakilickol), [Pamela Hutchinson](https://github.com/pamelahutchinson), 
-[Emre Akurek](https://github.com/emreyeprem), [Arlisha](https://github.com/Arlisha2019).
+[Emre Akurek](https://github.com/emreyeprem), [Arlisha Hayles](https://github.com/Arlisha2019).
 
 ## Database: 
 This project is built using "Firebase".
